@@ -10,7 +10,6 @@ import { Button } from 'react-bootstrap';
 // import { SearchForm } from "./components/search-form.component";
 // import { SearchBox } from '../../../monsters-rolodex/src/components/search-box/search-box.component';
 
-
 class App extends Component {
 
   constructor() {
@@ -22,7 +21,6 @@ class App extends Component {
     }
   }
 
-  
   render() {
 
     const renderEmployee = (employee, index) => {
